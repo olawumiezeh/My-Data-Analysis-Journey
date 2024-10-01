@@ -1,7 +1,10 @@
 # My-Data-Analysis-Journey
+
 This is where I document my practices and projects  while learning with Incubator Hub (LITA) which started on 19th of August 2024
 
 ## First Week ( Terminologies used in Data Analysis and Definitions) 
+-----
+
 ### Purpose of Data Analysis
 - To help business owners to understand what is working, what is not working and what should be focused on.
 - To make more money and to reduce cost. 
@@ -32,6 +35,10 @@ ETL Tools for microsoft is Power Query, it works with Excel and Power Bi
 4. Visualisation- Turning dta into visuls, charts and graphs
 5. Analysis- Using stistical tools to analyse your data. Stastical tools like mean,mode nd media
 6. Presentation- Present your findings
+   
+|Heading 1|Heading 2| Heading 3| Heading 4|
+|---------|---------|----------|----------|
+|Table 2|Table 2|Table 3|Table 4|
 
 
 
