@@ -3,12 +3,12 @@ This is where I document my practices and projects  while learning with Incubato
 
 ## First Week ( Terminologies used in Data Analysis and Definitions) 
 ### Purpose of Data Analysis
-To help business owners to understand what is working, what is not working and what should be focused on.
-To make more money and to reduce cost. 
-To help companies to make decision, prediction and recommendation using data.
-Data Set- Collection of different data points
-Data Points- Individualized data category e.g in a class we have participants, gender,location,academic level, profession which are called data point
-Operational Systems- Any system that an organisation uses to manage their business which can also be use to manage data.E.G Laptop ued by supermarket to record sales & profits. Youtube, used by organisations to train people etc.
+- To help business owners to understand what is working, what is not working and what should be focused on.
+- To make more money and to reduce cost. 
+- To help companies to make decision, prediction and recommendation using data.
+#### Data Set- Collection of different data points
+#### Data Points- Individualized data category e.g in a class we have participants, gender,location,academic level, profession which are called data point
+#### Operational Systems- Any system that an organisation uses to manage their business which can also be use to manage data.E.G Laptop ued by supermarket to record sales & profits. Youtube, used by organisations to train people etc.
 Analytical Systems- What is use to analyse data i.e Analytical toos like Power Bi, microsoft Excel, Tableau etc.
 ### Data Storage
 Data can be stord either on premises or on cloud
