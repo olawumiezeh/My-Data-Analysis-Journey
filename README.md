@@ -80,30 +80,27 @@ Data Validation
 ## Day 3
 # Excel Functions 2
 Functions to extract from text
-LEFT Function : To extract from left side of the original text
-MID Function: To extract from middle part of the original text
-Right Function: To extract from right part of the original text
-Functions to join letters- concatenate, concate, textjoin
-TRIM Function: To eliminate unnecessary space in a text
-PROPER Function: To capitalize first letter in a word
-UPPER Function: To capitalie all letters in a word
-LOWER Function: To male all letters to be in lower case
-RandBetween Function: To generate random numbers
-$ Function: To join two text
+- LEFT Function : To extract from left side of the original text
+- MID Function: To extract from middle part of the original text
+- Right Function: To extract from right part of the original text
+- Functions to join letters- concatenate, concate, textjoin
+- TRIM Function: To eliminate unnecessary space in a text
+- PROPER Function: To capitalize first letter in a word
+- UPPER Function: To capitalie all letters in a word
+- LOWER Function: To male all letters to be in lower case
+- RandBetween Function: To generate random numbers
+- $ Function: To join two text
 # Excel Functions 3. LOOKUPS
-LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
-VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
-Lookupvalue- what is common in the two tables
-TableARRAY- Where you are getting the data from
-ColumnIndexNumber- Position of the column you want to get from the table
-RangeLookup- What kind of lookup you want to do
-Types of Rangelookup
-Exact Match- Exact text you want it to find
-Approximate Match- Text that is closr to what you want
-HLOOKUP
-INDEX
-MATCH
-PIVOT TABLE For Data Visualiation and Reporting
+- LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
+- VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
+- Lookupvalue- what is common in the two tables
+- TableARRAY- Where you are getting the data from
+- ColumnIndexNumber- Position of the column you want to get from the table
+- RangeLookup- What kind of lookup you want to do
+- Types of RangeLookup
+   1. Exact Match- Exact text you want it to find
+   2. Approximate Match- Text that is closer to what you want it to find  
+- PIVOT TABLE For Data Visualiation and Reporting
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
