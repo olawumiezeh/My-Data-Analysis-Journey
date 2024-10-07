@@ -49,8 +49,6 @@ GitHub
 ### Excel Class
 Data Entry
  i Functions for Data Entry
-
-
 Formatting
 Data Validation
 ## DAY 2
