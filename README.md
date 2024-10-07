@@ -52,23 +52,22 @@ Data Entry
 Formatting
 Data Validation
 ## DAY 2
-Excel Functions 1
-Aggregate Function
-SUM: To add numbers in a column
-AVERAGE: To get average number in a column
-COUNT: To count a column with numbers
-COUNTA: To count a column mix with both numbers and text
-MAX: To get highest number in a column
-MIN: To get lowest number in a column 
-LARGE: To get highet number in a column with a criteria e.g 2nd highest number, 3rd highet number etc
-SMALL: To get lowest number in a column with a criteria e.g 2nd lowest number, 3rd lowest number etc 
-Basic Excel Functions
-Aggregations with conditions
-SUMIF: To add numbers where there is conditions in a column
-MAXIF: To get highest number with a condition in a column e.g highest salary in a specified location,
-MINIF: To get lowest number with a condition in a columne.g lowest salary in a particular city 
-AVERAGEIF: To get average number with a condition in a column e.g average salary in Kano from a column containing different states
-COUNTIF: To count a column with a condition
+### Excel Functions 1
+- Aggregate Functions
+  1. SUM: To add numbers in a column
+  2. AVERAGE: To get average number in a column
+  3. COUNT: To count a column with numbers
+  4. COUNTA: To count a column mix with both numbers and text
+  5. MAX: To get highest number in a column
+  6. MIN: To get lowest number in a column 
+  7. LARGE: To get highet number in a column with a criteria e.g 2nd highest number, 3rd highet number etc
+  8. SMALL: To get lowest number in a column with a criteria e.g 2nd lowest number, 3rd lowest number etc 
+- Aggregations with conditions
+  1. SUMIF: To add numbers where there is conditions in a column
+  2. MAXIF: To get highest number with a condition in a column e.g highest salary in a specified location,
+  3. MINIF: To get lowest number with a condition in a columne.g lowest salary in a particular city 
+  4. AVERAGEIF: To get average number with a condition in a column e.g average salary in Kano from a column containing different states
+  5. COUNTIF: To count a column with a condition
 ### EXCEL FUNCTION 1 PRACTICE
 ## Day 3
 Excel Functions 2
