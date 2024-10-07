@@ -45,10 +45,47 @@ Data
 SQL
 GitHub   
 # Second Week 
-## Excel Class
+## Day 1
+### Excel Class
 Data Entry
+i Functions for Data Entry
+
+
 Formatting
 Data Validation
+## DAY 2
+Excel Functions 1
+Aggregate Function
+SUM: To add numbers in a column
+AVERAGE: To get average number in a column
+COUNT: To count a column with numbers
+COUNTA: To count a column mix with both numbers and text
+MAX: To get highest number in a column
+MIN: To get lowest number in a column 
+LARGE: To get highet number in a column with a criteria e.g 2nd highest number, 3rd highet number etc
+SMALL: To get lowest number in a column with a criteria e.g 2nd lowest number, 3rd lowest number etc 
+Basic Excel Functions
+Aggregations with conditions
+SUMIF: To add numbers where there is conditions in a column
+MAXIF: To get highest number with a condition in a column e.g highest salary in a specified location,
+MINIF: To get lowest number with a condition in a columne.g lowest salary in a particular city 
+AVERAGEIF: To get average number with a condition in a column e.g average salary in Kano from a column containing different states
+COUNTIF: To count a column with a condition
+### EXCEL FUNCTION 1 PRACTICE
+## Day 3
+Excel Functions 2
+Functions to extract from text
+LEFT Function : To extract from left side of the original text
+MID Function: To extract from middle part of the original text
+Right Function: To extract from right part of the original text
+Functions to join letters- concatenate, concate, textjoin
+TRIM Function: To eliminate unnecessary space in a text
+PROPER Function: To capitalize first letter in a word
+UPPER Function: To capitalie all letters in a word
+LOWER Function: To male all letters to be in lower case
+RandBetween Function: To generate random numbers
+$ Function: To join two text
+Excel Lookups
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
