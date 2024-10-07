@@ -69,6 +69,8 @@ Data Validation
   4. AVERAGEIF: To get average number with a condition in a column e.g average salary in Kano from a column containing different states
   5. COUNTIF: To count a column with a condition
 ### EXCEL FUNCTION 1 PRACTICE
+![1728159603173](https://github.com/user-attachments/assets/b93a52eb-636e-4f4c-a907-859b9498144a)
+
 ## Day 3
 Excel Functions 2
 Functions to extract from text
