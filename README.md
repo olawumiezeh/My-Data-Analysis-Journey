@@ -40,11 +40,16 @@ ETL Tools for microsoft is Power Query, it works with Excel and Power Bi
 5. Analysis- Using stistical tools to analyse your data. Stastical tools like mean,mode nd media
 6. Presentation- Present your findings
 ## Tools used
-Microsoft Excel
+Microsoft Excel for;
+Data 
 SQL
 GitHub   
-## Second Week 
-Excel Class
+# Second Week 
+## Excel Class
+Data Entry
+Formatting
+Data Validation
+
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
 |Table 2|Table 2|Table 3|Table 4|
