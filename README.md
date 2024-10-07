@@ -48,7 +48,7 @@ GitHub
 ## Day 1
 ### Excel Class
 Data Entry
-i Functions for Data Entry
+ i Functions for Data Entry
 
 
 Formatting
