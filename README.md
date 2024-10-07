@@ -100,7 +100,7 @@ Functions to extract from text
 - Types of RangeLookup
    1. Exact Match- Exact text you want it to find
    2. Approximate Match- Text that is closer to what you want it to find  
-- PIVOT TABLE For Data Visualiation and Reporting
+# PIVOT TABLE For Data Visualiation and Reporting
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
