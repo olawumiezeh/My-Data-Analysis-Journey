@@ -4,7 +4,7 @@ This is where I document my practices and projects  while learning with Incubato
 
 # First Week 
 Terminologies used in Data Analysis and Definitions 
------
+---
 # Second Week
 [Excel Class](#excel-class)
 
@@ -71,7 +71,8 @@ Data Validation
   4. AVERAGEIF: To get average number with a condition in a column e.g average salary in Kano from a column containing different states
   5. COUNTIF: To count a column with a condition
 ### EXCEL FUNCTION 1 PRACTICE
-[Excel Functions 1 - Numbers.xlsx](https://github.com/user-attachments/files/17281327/Excel.Functions.1.-.Numbers.xlsx)
+![](https://github.com/olawumiezeh/My-Data-Analysis-Journey/blob/main/Aggregate%20Functions.jpg)
+
 
 
 
