@@ -40,10 +40,12 @@ ETL Tools for microsoft is Power Query, it works with Excel and Power Bi
 5. Analysis- Using stistical tools to analyse your data. Stastical tools like mean,mode nd media
 6. Presentation- Present your findings
 ## Tools used
-Microsoft Excel for;
-Data 
-SQL
-GitHub   
+- Microsoft Excel for;
+  1. Data Cleaning
+  2. Analysis
+  3. Visualization
+- SQL: Sequeled Query Language for querying of data
+- GitHub: For portfolio building   
 # Second Week 
 ## Day 1
 ### Excel Class
@@ -76,7 +78,7 @@ Data Validation
 
 
 ## Day 3
-Excel Functions 2
+# Excel Functions 2
 Functions to extract from text
 LEFT Function : To extract from left side of the original text
 MID Function: To extract from middle part of the original text
@@ -88,7 +90,21 @@ UPPER Function: To capitalie all letters in a word
 LOWER Function: To male all letters to be in lower case
 RandBetween Function: To generate random numbers
 $ Function: To join two text
-Excel Lookups
+# Excel Functions 3. LOOKUPS
+LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
+VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
+Lookupvalue- what is common in the two tables
+TableARRAY- Where you are getting the data from
+ColumnIndexNumber- Position of the column you want to get from the table
+RangeLookup- What kind of lookup you want to do
+Types of Rangelookup
+Exact Match- Exact text you want it to find
+Approximate Match- Text that is closr to what you want
+HLOOKUP
+INDEX
+MATCH
+PIVOT TABLE For Data Visualiation and Reporting
+
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
