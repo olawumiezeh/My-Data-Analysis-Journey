@@ -78,7 +78,7 @@ This is the initial phase of data entry. We perform actions like;
   3. MINIF: To get lowest number with a condition in a columne.g lowest salary in a particular city 
   4. AVERAGEIF: To get average number with a condition in a column e.g average salary in Kano from a column containing different states
   5. COUNTIF: To count a column with a condition
-### EXCEL FUNCTION 1 PRACTICE
+#### EXCEL FUNCTION 1 PRACTICE
 ![Aggregate Functions](https://github.com/user-attachments/assets/f38039dd-df65-43e6-bd91-785c16e226d7)
 
 ![Aggregate Conditionals](https://github.com/user-attachments/assets/8b427dba-b112-4573-93a0-0a6914088237)
