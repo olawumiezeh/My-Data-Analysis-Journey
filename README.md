@@ -2,12 +2,13 @@
 
 This is where I document my practices and projects  while learning with Incubator Hub (LITA) which started on 19th of August 2024
 
-# First Week 
+[INTRODUCTION TO DATA ANALYSIS](#introduction-to-data-analysis)
+
+[TOOLS USED](#tools-used)
+
+## INTRODUCTION TO DATA ANALYSIS
 Terminologies used in Data Analysis and Definitions 
 ---
-# Second Week
-[Excel Class](#excel-class)
-
 ### Terminologies used in Data Analysis and Definitions 
   Purpose of Data Analysis
 - To help business owners to understand what is working, what is not working and what should be focused on.
@@ -39,7 +40,7 @@ ETL Tools for microsoft is Power Query, it works with Excel and Power Bi
 4. Visualisation- Turning dta into visuls, charts and graphs
 5. Analysis- Using stistical tools to analyse your data. Stastical tools like mean,mode nd media
 6. Presentation- Present your findings
-## Tools used
+## TOOLS USED
 - Microsoft Excel for;
   1. Data Cleaning
   2. Analysis
