@@ -6,6 +6,12 @@ This is where I document my practices and projects  while learning with Incubato
 
 [TOOLS USED](#tools-used)
 
+[EXCEL CLASS](#excel-class)
+
+[EXCEL FUNCTIONS 1](#excel-functions-1)
+
+[EXCEL FUNCTIONS 2](#excel-functions-2)
+
 ## INTRODUCTION TO DATA ANALYSIS
 Terminologies used in Data Analysis and Definitions 
 ---
@@ -47,15 +53,14 @@ ETL Tools for microsoft is Power Query, it works with Excel and Power Bi
   3. Visualization
 - SQL: Sequeled Query Language for querying of data
 - GitHub: For portfolio building   
-# Second Week 
-## Day 1
-### Excel Class
-Data Entry
- i Functions for Data Entry
-Formatting
-Data Validation
-## DAY 2
-### Excel Functions 1
+ 
+### EXCEL CLASS
+Data Cleaning and Preparations
+This is the initial phase of data entry. We perform actions like;
+ 1. Data Entry
+ 2. Formatting
+ 3. Data Validation
+#### EXCEL FUNCTIONS 1
 - Aggregate Functions
   1. SUM: To add numbers in a column
   2. AVERAGE: To get average number in a column
@@ -75,12 +80,7 @@ Data Validation
 ![](https://github.com/olawumiezeh/My-Data-Analysis-Journey/blob/main/Aggregate%20Functions.jpg)
 
 
-
-
-
-
-## Day 3
-# Excel Functions 2
+#### EXCEL FUNCTIONS 2
 Functions to extract from text
 - LEFT Function : To extract from left side of the original text
 - MID Function: To extract from middle part of the original text
@@ -92,7 +92,7 @@ Functions to extract from text
 - LOWER Function: To male all letters to be in lower case
 - RandBetween Function: To generate random numbers
 - $ Function: To join two text
-# Excel Functions 3. LOOKUPS
+#### EXCEL FUNCTION 3. LOOKUPS
 - LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
 - VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
 - Lookupvalue- what is common in the two tables
@@ -102,7 +102,7 @@ Functions to extract from text
 - Types of RangeLookup
    1. Exact Match- Exact text you want it to find
    2. Approximate Match- Text that is closer to what you want it to find  
-# PIVOT TABLE For Data Visualiation and Reporting
+#### PIVOT TABLE For Data Visualiation and Reporting
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
