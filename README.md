@@ -10,6 +10,8 @@ This is where I document my practices and projects  while learning with Incubato
 
 [EXCEL FUNCTIONS 1](#excel-functions-1)
 
+[EXCEL FUNCTION 1 PRACTICE](#excel-function-1-practice)
+
 [EXCEL FUNCTIONS 2](#excel-functions-2)
 
 ## INTRODUCTION TO DATA ANALYSIS
@@ -78,6 +80,9 @@ This is the initial phase of data entry. We perform actions like;
   5. COUNTIF: To count a column with a condition
 ### EXCEL FUNCTION 1 PRACTICE
 ![Aggregate Functions](https://github.com/user-attachments/assets/f38039dd-df65-43e6-bd91-785c16e226d7)
+
+![Aggregate Conditionals](https://github.com/user-attachments/assets/8b427dba-b112-4573-93a0-0a6914088237)
+
 
 
 
