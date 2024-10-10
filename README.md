@@ -96,7 +96,7 @@ Here, we perform task like
 - RIGHT Function: To extract from right part of the original text
 ##### Numbers Extraction Practice
 ![Numbers Extraction](https://github.com/user-attachments/assets/fd295677-b857-4a44-bff3-ab27a7a6cd6b)
-#### Text Extraction. Here, we made use of;
+#### Text Extraction 1. Here, we made use of;
 - TRIM Function: To eliminate unnecessary space in a text
 - PROPER Function: To capitalize first letter in a word
 - UPPER Function: To capitalie all letters in a word
@@ -107,6 +107,9 @@ Here, we perform task like
 - Functions to join letters- concatenate, concate, textjoin
 #### Text Extraction Practice
 ![Text Extraction](https://github.com/user-attachments/assets/2add4315-3434-4765-8272-f19fcfaf6f1e)
+#### Text Extraction 2. Here we combined two different functions to extract text
+LEN Function- to select the whole text
+FIND Function- To search in a text i.e to search for a space
 
 
 #### EXCEL FUNCTION 3. LOOKUPS
