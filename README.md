@@ -8,9 +8,7 @@ This is where I document my practices and projects  while learning with Incubato
 
 [EXCEL CLASS](#excel-class)
 
-[EXCEL FUNCTIONS 1](#excel-functions-1)
-
-[EXCEL FUNCTION 1 PRACTICE](#excel-function-1-practice)
+[EXCEL FUNCTIONS 1 AND PRACTICES](#excel-functions-1-and-practices)
 
 [EXCEL FUNCTIONS 2](#excel-functions-2)
 
@@ -62,7 +60,7 @@ This is the initial phase of data entry. We perform actions like;
  1. Data Entry
  2. Formatting
  3. Data Validation
-#### EXCEL FUNCTIONS 1
+#### EXCEL FUNCTIONS 1 AND PRACTICES
 - Aggregate Functions
   1. SUM: To add numbers in a column
   2. AVERAGE: To get average number in a column
@@ -101,7 +99,10 @@ Functions to extract from text
 - LOWER Function: To male all letters to be in lower case
 - RandBetween Function: To generate random numbers
 - $ Function: To join two text
-- Control E- Flash fill
+- Control A- Open Functional Argument Box
+#### Text Extraction Practice
+![Text Extraction](https://github.com/user-attachments/assets/8b31278f-4ffb-4078-83d0-246c304e355e)
+
 #### EXCEL FUNCTION 3. LOOKUPS
 - LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
 - VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
