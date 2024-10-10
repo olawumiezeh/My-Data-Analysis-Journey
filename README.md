@@ -87,6 +87,9 @@ This is the initial phase of data entry. We perform actions like;
 
 
 #### EXCEL FUNCTIONS 2
+Here, we perform task like
+  1. Text Extraction
+  2. Text Cleaning
 Functions to extract from text
 - LEFT Function : To extract from left side of the original text
 - MID Function: To extract from middle part of the original text
@@ -98,6 +101,7 @@ Functions to extract from text
 - LOWER Function: To male all letters to be in lower case
 - RandBetween Function: To generate random numbers
 - $ Function: To join two text
+- Control E- Flash fill
 #### EXCEL FUNCTION 3. LOOKUPS
 - LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
 - VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
