@@ -86,13 +86,17 @@ This is the initial phase of data entry. We perform actions like;
 
 #### EXCEL FUNCTIONS 2
 Here, we perform task like
-  1. Text Extraction
-  2. Text Cleaning
-Functions to extract from text
+  1. Numbers Extraction
+  2. Text Extraction
+  3. Text Cleaning
+     
+ #### Numbers Extraction. We made use of;
 - LEFT Function : To extract from left side of the original text
 - MID Function: To extract from middle part of the original text
-- Right Function: To extract from right part of the original text
-- Functions to join letters- concatenate, concate, textjoin
+- RIGHT Function: To extract from right part of the original text
+##### Numbers Extraction Practice
+![Numbers Extraction](https://github.com/user-attachments/assets/fd295677-b857-4a44-bff3-ab27a7a6cd6b)
+#### Text Extraction. Here, we made use of;
 - TRIM Function: To eliminate unnecessary space in a text
 - PROPER Function: To capitalize first letter in a word
 - UPPER Function: To capitalie all letters in a word
@@ -100,8 +104,10 @@ Functions to extract from text
 - RandBetween Function: To generate random numbers
 - $ Function: To join two text
 - Control A- Open Functional Argument Box
+- Functions to join letters- concatenate, concate, textjoin
 #### Text Extraction Practice
-![Text Extraction](https://github.com/user-attachments/assets/8b31278f-4ffb-4078-83d0-246c304e355e)
+![Text Extraction](https://github.com/user-attachments/assets/2add4315-3434-4765-8272-f19fcfaf6f1e)
+
 
 #### EXCEL FUNCTION 3. LOOKUPS
 - LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
