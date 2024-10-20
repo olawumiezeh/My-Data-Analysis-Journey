@@ -12,7 +12,7 @@ This is where I document my practices and projects  while learning with Incubato
 
 [EXCEL FUNCTIONS 1 AND PRACTICES](#excel-functions-1-and-practices)
 
-[EXCEL FUNCTIONS 2](#excel-functions-2)
+[EXCEL FUNCTIONS 2 And Practices](#excel-functions-2-and-practices)
 
 ## INTRODUCTION TO DATA ANALYSIS
 Terminologies used in Data Analysis and Definitions 
@@ -87,19 +87,19 @@ This is the initial phase of data entry. We perform actions like;
 
 ![Aggregate Conditionals](https://github.com/user-attachments/assets/8b427dba-b112-4573-93a0-0a6914088237)
 
-#### EXCEL FUNCTIONS 2
+#### EXCEL FUNCTIONS 2 And Practices
 Here, we perform task like
   1. Numbers Extraction
   2. Text Extraction
   3. Text Cleaning
      
- #### Numbers Extraction. We made use of;
+ ##### Numbers Extraction. We made use of;
 - LEFT Function : To extract from left side of the original text
 - MID Function: To extract from middle part of the original text
 - RIGHT Function: To extract from right part of the original text
 ##### Numbers Extraction Practice
 ![Numbers Extraction](https://github.com/user-attachments/assets/fd295677-b857-4a44-bff3-ab27a7a6cd6b)
-#### Text Extraction 1. Here, we made use of;
+##### Excel Text Extraction 1. Here, we made use of;
 - TRIM Function: To eliminate unnecessary space in a text
 - PROPER Function: To capitalize first letter in a word
 - UPPER Function: To capitalie all letters in a word
@@ -108,13 +108,21 @@ Here, we perform task like
 - $ Function: To join two text
 - Control A- Open Functional Argument Box
 - Functions to join letters- concatenate, concate, textjoin
-#### Text Extraction Practice
+##### Text Extraction Using Excel
 ![TEXT CLEANING 1](https://github.com/user-attachments/assets/4de4f23f-7b72-4e66-b1ca-4be9800ab139)
 
 ![Text Extraction](https://github.com/user-attachments/assets/2add4315-3434-4765-8272-f19fcfaf6f1e)
-#### Text Extraction 2. Here we combined two different functions to extract text
+##### Text Extraction 2. Here we combined two different functions to extract text
 LEN Function- to select the whole text
 FIND Function- To search in a text i.e to search for a space
+CONCATENATE- To join words together
+LEFT Function
+Right Function
+##### Text extraction 2 practice
+![TEXT CLEANING 2](https://github.com/user-attachments/assets/78d4dbab-3975-49f4-baf7-639c73da23e2)
+
+
+
 
 
 #### EXCEL FUNCTION 3. LOOKUPS
