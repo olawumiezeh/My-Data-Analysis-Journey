@@ -8,6 +8,8 @@ This is where I document my practices and projects  while learning with Incubato
 
 [EXCEL CLASS](#excel-class)
 
+[Power BI Class](#power-bi-class)
+
 [EXCEL FUNCTIONS 1 AND PRACTICES](#excel-functions-1-and-practices)
 
 [EXCEL FUNCTIONS 2](#excel-functions-2)
