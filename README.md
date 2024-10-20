@@ -155,7 +155,7 @@ We used different functions to achieve this, functions like:
 lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
 ![POWER BI TEXT EXTRACTION 1](https://github.com/user-attachments/assets/933d59ab-7fea-4c8d-800d-e144fa7cd07d)
 ##### PowerBI Assignment 
-Text Extraction using PowerBI
+
 We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname, and to get email address using the first name in another column.
 ![POWER BI TEXT EXTRACTION 2](https://github.com/user-attachments/assets/fa2440af-c064-41fb-97ad-03acf9a7c673)
 
