@@ -156,7 +156,8 @@ lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
 ![POWER BI TEXT EXTRACTION 1](https://github.com/user-attachments/assets/933d59ab-7fea-4c8d-800d-e144fa7cd07d)
 ##### PowerBI Assignment 
 
-We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname, and to get email address using the first name in another column.
+We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname, and task is to get email address using the first name.
+
 ![POWER BI TEXT EXTRACTION 2](https://github.com/user-attachments/assets/fa2440af-c064-41fb-97ad-03acf9a7c673)
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
