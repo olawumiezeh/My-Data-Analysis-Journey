@@ -52,7 +52,11 @@ ETL Tools for microsoft is Power Query, it works with Excel and Power Bi
   2. Analysis
   3. Visualization
 - SQL: Sequeled Query Language for querying of data
-- GitHub: For portfolio building   
+- GitHub: For portfolio building
+- Power BI (Business Intelligence) for;
+  1. Data entry
+  2. Data Cleaning
+  3. Data Summarization and Visualization  
  
 ### EXCEL CLASS
 Data Cleaning and Preparations
@@ -80,9 +84,6 @@ This is the initial phase of data entry. We perform actions like;
 ![Aggregate Functions](https://github.com/user-attachments/assets/f38039dd-df65-43e6-bd91-785c16e226d7)
 
 ![Aggregate Conditionals](https://github.com/user-attachments/assets/8b427dba-b112-4573-93a0-0a6914088237)
-
-
-
 
 #### EXCEL FUNCTIONS 2
 Here, we perform task like
@@ -123,6 +124,16 @@ FIND Function- To search in a text i.e to search for a space
    1. Exact Match- Exact text you want it to find
    2. Approximate Match- Text that is closer to what you want it to find  
 #### PIVOT TABLE For Data Visualiation and Reporting
+### Power BI Class
+#### Data Cleaning
+- To clean a data we were taught to first: 
+ 1. Get Data from the source that its been stored
+ 2. Transform Data
+ 3. Check the Column Quality, Column Profile and Column Distribution
+ 4. Check the data type if it is correct
+ 5. Check the consistency of the columns
+#### Text Extraction using PowerBI
+Here we were able to use diffe
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
