@@ -93,13 +93,13 @@ Here, we perform task like
   2. Text Extraction
   3. Text Cleaning
      
- ##### Numbers Extraction. We made use of;
+ ##### Numbers Extraction. I made use of;
 - LEFT Function : To extract from left side of the original text
 - MID Function: To extract from middle part of the original text
 - RIGHT Function: To extract from right part of the original text
 ##### Numbers Extraction Practice
 ![Numbers Extraction](https://github.com/user-attachments/assets/fd295677-b857-4a44-bff3-ab27a7a6cd6b)
-##### Excel Text Extraction 1. Here, we made use of;
+##### Excel Text Extraction 1. Here, I made use of;
 - TRIM Function: To eliminate unnecessary space in a text
 - PROPER Function: To capitalize first letter in a word
 - UPPER Function: To capitalie all letters in a word
@@ -111,8 +111,7 @@ Here, we perform task like
 ##### Text Extraction Using Excel
 ![TEXT CLEANING 1](https://github.com/user-attachments/assets/4de4f23f-7b72-4e66-b1ca-4be9800ab139)
 
-![Text Extraction](https://github.com/user-attachments/assets/2add4315-3434-4765-8272-f19fcfaf6f1e)
-##### Text Extraction 2. Here we combined two different functions to extract text
+##### Text Extraction 2. Here I combined two different functions to extract text
 LEN Function- to select the whole text
 FIND Function- To search in a text i.e to search for a space
 CONCATENATE- To join words together
@@ -120,8 +119,10 @@ LEFT Function
 Right Function
 ##### Text extraction 2 practice
 ![TEXT CLEANING 2](https://github.com/user-attachments/assets/78d4dbab-3975-49f4-baf7-639c73da23e2)
-
-
+##### Text Extraction 3. Here, I made use of & FUNCTION to join two words together with a space in between
+![TEXT CLEANING 3](https://github.com/user-attachments/assets/ebc59854-45e0-45a0-84ad-3a74f28e7d0b)
+##### Text Extraction 4. Here, I made use of this FUNCTION =MID(B6,FIND(".",B6)+1, FIND("@",B6)-1 -  FIND(".",B6)) and then autofill the remaining rows
+![TEXT CLEANING 4](https://github.com/user-attachments/assets/7b00bb8e-5f77-42e6-a476-164d75721790)
 
 
 
