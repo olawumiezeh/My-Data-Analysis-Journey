@@ -10,6 +10,8 @@ This is where I document my practices and projects  while learning with Incubato
 
 [Power BI Class](#power-bi-class)
 
+[PowerBI Assignment ](#powerbi-assignment)
+
 [EXCEL FUNCTIONS 1 AND PRACTICES](#excel-functions-1-and-practices)
 
 [EXCEL FUNCTIONS 2 And Practices](#excel-functions-2-and-practices)
@@ -147,10 +149,15 @@ Right Function
  5. Check the consistency of the columns
 - Functions used
   1. Remove columns, Remove rows, Promoted header,Change data type
-#### Text Extraction using PowerBI
-Here we were able to use different functions like
-lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
 
+#### Text Extraction using PowerBI
+We used different functions to achieve this, functions like:
+lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
+![POWER BI TEXT EXTRACTION 1](https://github.com/user-attachments/assets/933d59ab-7fea-4c8d-800d-e144fa7cd07d)
+##### PowerBI Assignment 
+Text Extraction using PowerBI
+We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname, and to get email address using the first name in another column.
+![POWER BI TEXT EXTRACTION 2](https://github.com/user-attachments/assets/fa2440af-c064-41fb-97ad-03acf9a7c673)
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
