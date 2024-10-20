@@ -109,6 +109,8 @@ Here, we perform task like
 - Control A- Open Functional Argument Box
 - Functions to join letters- concatenate, concate, textjoin
 #### Text Extraction Practice
+![TEXT CLEANING 1](https://github.com/user-attachments/assets/4de4f23f-7b72-4e66-b1ca-4be9800ab139)
+
 ![Text Extraction](https://github.com/user-attachments/assets/2add4315-3434-4765-8272-f19fcfaf6f1e)
 #### Text Extraction 2. Here we combined two different functions to extract text
 LEN Function- to select the whole text
