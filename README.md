@@ -134,8 +134,11 @@ FIND Function- To search in a text i.e to search for a space
  3. Check the Column Quality, Column Profile and Column Distribution
  4. Check the data type if it is correct
  5. Check the consistency of the columns
+- Functions used
+  1. Remove columns, Remove rows, Promoted header,Change data type
 #### Text Extraction using PowerBI
-Here we were able to use diffe
+Here we were able to use different functions like
+lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
