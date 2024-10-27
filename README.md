@@ -153,6 +153,7 @@ Right Function
 #### Text Extraction using PowerBI
 We used different functions to achieve this, functions like:
 lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
+
 ![POWER BI TEXT EXTRACTION 1](https://github.com/user-attachments/assets/933d59ab-7fea-4c8d-800d-e144fa7cd07d)
 ##### PowerBI Assignment 
 
