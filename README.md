@@ -126,8 +126,6 @@ Right Function
 ##### Text Extraction 4. Here, I made use of this FUNCTION =MID(B6,FIND(".",B6)+1, FIND("@",B6)-1 -  FIND(".",B6)) and then autofill the remaining rows
 ![TEXT CLEANING 4](https://github.com/user-attachments/assets/7b00bb8e-5f77-42e6-a476-164d75721790)
 
-
-
 #### EXCEL FUNCTION 3. LOOKUPS
 - LOOKUP means that you are getting an information from another workbook or worksheet into the workbook you are working on
 - VLOOKUP ( Lookupvalue, table array, column indexnumber, range lookup)
@@ -160,6 +158,10 @@ lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
 We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname, and task is to get email address using the first name.
 
 ![POWER BI TEXT EXTRACTION 2](https://github.com/user-attachments/assets/fa2440af-c064-41fb-97ad-03acf9a7c673)
+##### PowerBI Class Project
+
+We worked on a real time data which is a HR data of a company that contains attrition, number of employee and their age, depatment, gender, education field, job role marital status etc. We performed visualisation on the data using Power BI and we able to come up with visuals relating different columns together.
+Here is a picture of the visualisation below
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
