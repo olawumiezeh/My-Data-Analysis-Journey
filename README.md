@@ -155,12 +155,22 @@ lowercase, UPPERCASE, Trim, Capitalize Each Word, Merge column
 ![POWER BI TEXT EXTRACTION 1](https://github.com/user-attachments/assets/933d59ab-7fea-4c8d-800d-e144fa7cd07d)
 ##### PowerBI Assignment 
 
-We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname, and task is to get email address using the first name.
+We were given an uncleaned table containing empty rows and columns with Column Names, Column First name, Column Surname,
+###### Task: to get email address using the first name column.
 
 ![POWER BI TEXT EXTRACTION 2](https://github.com/user-attachments/assets/fa2440af-c064-41fb-97ad-03acf9a7c673)
 ##### PowerBI Class Project
 
-We worked on a real time data which is a HR data of a company that contains attrition, number of employee and their age, depatment, gender, education field, job role marital status etc. We performed visualisation on the data using Power BI and we able to come up with visuals relating different columns together.
+We worked on a real time data which is a HR data of a company that contains columns like; Attrition, Number of employee and their Age, Department, Gender, Education Field,Job role, Marital status etc. This data gave an insight to the staff strenght of the company, The number of people that have left the company and those remaining
+
+We performed visualisation on the data using Power BI and we able to come up with visuals relating different columns together.
+
+###### Task
+- To know the number of people that have let the company
+- To know the reason for people leavin the company
+- To know the departmentin the company that has the highest attrition
+- To have the understanding of the age group that has the highest attrition
+- To have an understanding of the gender that has the gighest attrition 
 Here is a picture of the visualisation below
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
