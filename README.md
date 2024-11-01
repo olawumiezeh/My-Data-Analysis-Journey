@@ -179,9 +179,13 @@ Here is a picture of the visualisation below
 ![HR Data](https://github.com/user-attachments/assets/306fdcd5-df8d-4966-be91-3449e8329b3e)
 
 - Deductions from the visualization
+  
 *Total Number of Employee is 1470. Out of the 1470, 237 people left the organisation.Leaving the total number of 1233 as the current employees in the company*
+
 *Attrition Rate is 16%*
+
 *Most people that left are from R&D DEPARTMENT*
+
 *Employee who had the job role as Laboratory Technician has the highest number of attrition. 20 of them expressed that they are **very dissatisfied** with their job role, 8 of them expressed that they are **dissatisfied** with their job role, 21 expressed that they are **satisfied** with their jobrole and 13 of them expressed that they are **very satisfied** *
 
 
