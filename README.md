@@ -163,15 +163,25 @@ We were given an uncleaned table containing empty rows and columns with Column N
 
 We worked on a real time data which is a HR data of a company that contains columns like; Attrition, Number of employee and their Age, Department, Gender, Education Field,Job role, Marital status etc. This data gave an insight to the staff strenght of the company, The number of people that have left the company and those remaining
 
-We performed visualisation on the data using Power BI and we able to come up with visuals relating different columns together.
+We performed visualisation on the data using Power BI and we are able to come up with visuals relating different columns together.
 
 ###### Task
-- To know the number of people that have let the company
-- To know the reason for people leavin the company
-- To know the departmentin the company that has the highest attrition
+- To understand the attrition rate
+- To know the number of people that have left the company
+- To know the reason for people leaving the company
+- To know the department in the company that has the highest attrition
 - To have the understanding of the age group that has the highest attrition
-- To have an understanding of the gender that has the gighest attrition 
+- To have an understanding of the gender that has the gighest attrition
+- Generally, we were able to visualise the total number of people remainining in the company
+- To have an understanding of employee's job satisfaction and how it relates to attrition
 Here is a picture of the visualisation below
+
+![HR Data](https://github.com/user-attachments/assets/306fdcd5-df8d-4966-be91-3449e8329b3e)
+
+*Total Number of Employee is 1470. Out of the 1470, 237 people left the organisation.Leaving the total number of 1233 as the current employees in the company*
+
+
+
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
