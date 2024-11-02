@@ -16,6 +16,8 @@ This is where I document my practices and projects  while learning with Incubato
 
 [EXCEL FUNCTIONS 2 And Practices](#excel-functions-2-and-practices)
 
+[PowerBI Class Project](#powerbi-class-project)
+
 ## INTRODUCTION TO DATA ANALYSIS
 Terminologies used in Data Analysis and Definitions 
 ---
@@ -160,6 +162,7 @@ We were given an uncleaned table containing empty rows and columns with Column N
 ###### Task: to get email address using the first name column.
 
 ![POWER BI TEXT EXTRACTION 2](https://github.com/user-attachments/assets/fa2440af-c064-41fb-97ad-03acf9a7c673)
+
 ##### PowerBI Class Project
 
 We worked on a real time data which is a HR data of a company that contains columns like; Attrition, Number of employee and their Age, Department, Gender, Education Field,Job role, Marital status etc. This data gave an insight to the staff strenght of the company, The number of people that have left the company and those remaining
@@ -177,9 +180,10 @@ We performed visualisation on the data using Power BI and we are able to come up
 - To have an understanding of employee's job satisfaction and how it relates to attrition
 Here is a picture of the visualisation below
 
-![HR Data](https://github.com/user-attachments/assets/306fdcd5-df8d-4966-be91-3449e8329b3e)
+![Attrition 1](https://github.com/user-attachments/assets/97b49afe-cc43-49d5-af30-320bcece7953)
 
-- Deductions from the visualization
+
+- Results
   
 1. *Total Number of Employee is 1470. Out of the 1470, 237 people left the organisation.Leaving the total number of 1233 as the current employees in the company*
 
@@ -187,10 +191,19 @@ Here is a picture of the visualisation below
 
 3. *Most people that left are from R&D DEPARTMENT*
 
-4 *Employee who had the job role as Laboratory Technician has the highest number of attrition. 20 of them expressed that they are **very dissatisfied** with their job role, 8 of them expressed that they are **dissatisfied** with their job role, 21 expressed that they are **satisfied** with their jobrole and 13 of them expressed that they are **very satisfied***
+4. *Employee who had the job role as Laboratory Technician has the highest number of attrition. 20 of them expressed that they are **very dissatisfied** with their job role, 8 of them expressed that they are **dissatisfied** with their job role, 21 expressed that they are **satisfied** with their jobrole and 13 of them expressed that they are **very satisfied***
+
 5.*Out of the 237 that left the company, 150 0f them are male*
+
 6. *89 of those that left had their education in Life Sciences*
+
 7.*69 male who are between the age of 25-34 left the company*
+
+![Attrition2](https://github.com/user-attachments/assets/7401ac3c-1da9-4aa6-83b6-4070d33dbe3d)
+
+**DEDUCTION**
+It can be deduced that; Male who are between the age of 25-34 had the most attrition, Based on Education Field, most people that left had their education in Life Sciences, Based on Job Role, People that worked as Laboratory Technician has the highest attrition and the Department of R&D has the most attrition. Although, 73 out of those that left expressed that they are Satisfied with the job role, 66 says they are Very Dissatisfied, 52 says they are Very Satisfied and 46 says they are Dissatisfied
+
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
