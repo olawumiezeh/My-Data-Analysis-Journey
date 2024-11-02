@@ -137,6 +137,7 @@ Right Function
    1. Exact Match- Exact text you want it to find
    2. Approximate Match- Text that is closer to what you want it to find  
 #### PIVOT TABLE For Data Visualiation and Reporting
+
 ### Power BI Class
 #### Data Cleaning
 - To clean a data we were taught to first: 
@@ -186,8 +187,10 @@ Here is a picture of the visualisation below
 
 3. *Most people that left are from R&D DEPARTMENT*
 
-*Employee who had the job role as Laboratory Technician has the highest number of attrition. 20 of them expressed that they are **very dissatisfied** with their job role, 8 of them expressed that they are **dissatisfied** with their job role, 21 expressed that they are **satisfied** with their jobrole and 13 of them expressed that they are **very satisfied** *
-
+4 *Employee who had the job role as Laboratory Technician has the highest number of attrition. 20 of them expressed that they are **very dissatisfied** with their job role, 8 of them expressed that they are **dissatisfied** with their job role, 21 expressed that they are **satisfied** with their jobrole and 13 of them expressed that they are **very satisfied***
+5.*Out of the 237 that left the company, 150 0f them are male*
+6. *89 of those that left had their education in Life Sciences*
+7.*69 male who are between the age of 25-34 left the company*
 
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
