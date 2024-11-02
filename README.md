@@ -204,7 +204,15 @@ Here is a picture of the visualisation below
 **DEDUCTION**
 It can be deduced that; Male who are between the age of 25-34 had the most attrition, Based on Education Field, most people that left had their education in Life Sciences, Based on Job Role, People that worked as Laboratory Technician has the highest attrition and the Department of R&D has the most attrition. Although, 73 out of those that left expressed that they are Satisfied with the job role, 66 says they are Very Dissatisfied, 52 says they are Very Satisfied and 46 says they are Dissatisfied
 
+### COURSE PROJECT
 
+#### PROJECT OVERVIEW
+
+We were given two data to work on which are **Sales Data** and **Customer Data**
+
+For Sales Data
+
+Aim is to analyze sales performance of a retail store
 
 |Heading 1|Heading 2| Heading 3| Heading 4|
 |---------|---------|----------|----------|
